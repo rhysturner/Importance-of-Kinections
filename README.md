@@ -1,0 +1,4 @@
+importance-of-kinections
+========================
+
+// ****** IMPORTANCE OF KINECTION v1.0 ***** // RHYS TURNER | www.aenigma.com.au | rhys@aenigma.com.au // AMNESIA | RAZORFISH // Part of a bumper video for TedX Sydney 2012 using croud  // recording to create particle could interactions. // // ****** NOTES ******  // //  Contributed Processing libraries required include Kinect OoenCV //  IMPORT ARE IN IMPORT TAB //  PROPERTIES ARE IN PROPERTIES TAB // // ****** KEYBOARD CONTROLS ********* // // a - increase maximum &amp; minimum kinect distance // z - decrease maximum &amp; minimum kinect distqance // s - increase minimum OpenCV blob size // x - decrease minimum OpenCV blob size // d - increase max OpenCV blob size // c - decrease max OpenCV blob size // i - start stop save image sequence // q - show hide settings &amp; output window // n - start record frame particle and blob data // m - stop record frame particle and blob data //  // 
