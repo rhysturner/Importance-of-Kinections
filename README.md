@@ -19,14 +19,14 @@ Contributed Processing libraries required include Kinect OoenCV IMPORT ARE IN IM
 1. Install and run Kinnect
 
 ### Keyboard Controls 
-a - increase maximum &amp; minimum kinect distance 
-z - decrease maximum &amp; minimum kinect distqance 
-s - increase minimum OpenCV blob size 
-x - decrease minimum OpenCV blob size 
-d - increase max OpenCV blob size 
-c - decrease max OpenCV blob size 
-i - start stop save image sequence 
-q - show hide settings &amp; output window 
-n - start record frame particle and blob data 
-m - stop record frame particle and blob data  
+1. a - increase maximum &amp; minimum kinect distance  
+1. z - decrease maximum &amp; minimum kinect distqance  
+1. s - increase minimum OpenCV blob size  
+1. x - decrease minimum OpenCV blob size  
+1. d - increase max OpenCV blob size  
+1. c - decrease max OpenCV blob size  
+1. i - start stop save image sequence  
+1. q - show hide settings &amp; output window  
+1. n - start record frame particle and blob data  
+1. m - stop record frame particle and blob data   
  
